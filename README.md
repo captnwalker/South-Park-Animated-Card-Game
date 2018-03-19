@@ -56,6 +56,6 @@ This app has been deployed to Heroku and can be played by clicking the link belo
 
 - **Steve Walker**  | [LinkedIn](https://www.linkedin.com/in/stevelwalker/)
 
-- *March 2018*
+- License MIT *March 2018*
 
 ![Nyantocat](https://octodex.github.com/images/nyantocat.gif)
