@@ -23,7 +23,7 @@
 
 This app has been deployed to Heroku and can be played by clicking the link below:
 
-[**South Park Card Game**](https://sleepy-caverns-68305.herokuapp.com/ "South Park Card Game")
+[**South Park Card Game**](https://south-park-animated-card-game.herokuapp.com/ "South Park Card Game")
 
 ### Screenshot of this Project
 
@@ -55,5 +55,7 @@ This app has been deployed to Heroku and can be played by clicking the link belo
 ### Author
 
 - **Steve Walker**  | [LinkedIn](https://www.linkedin.com/in/stevelwalker/)
+
+- *March 2018*
 
 ![Nyantocat](https://octodex.github.com/images/nyantocat.gif)
