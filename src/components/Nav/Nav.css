@@ -1,0 +1,132 @@
+nav {
+    width: 100%;
+    background-image: url(../img/sp-nav2.png);
+    font-size: 3rem;
+    margin-bottom: 50px;
+    height: 166px;
+    transition: .4s;
+}
+
+/*  Hover effect for navBar */
+
+#parallax:hover {
+    position: relative;
+    transform: scale(1.06);
+    transition: .4s;
+    z-index: 0;
+}
+
+#parallax:hoverOut {
+    position: relative;
+    transition: .4s;
+    z-index: 0;
+}
+
+#scores {
+    background-color: rgba(241, 238, 13, .8);
+    height: 65px;
+    color: rgb(49, 9, 224);
+}
+
+#rw {
+    color: rgb(250, 4, 4);
+    transition: all .8s;
+}
+
+#rw:hover {
+    color: rgb(250, 4, 4);
+    transform: scale(1.5);
+    transform: rotate(360deg);
+    transition: all .8s;
+    text-transform: uppercase;
+}
+
+#rw:hover a p.new-label:after {
+    content: 'YOU BASTARD!!';
+}
+
+/* WebKit Animation for Game Title */
+
+a {
+    font-size: 4rem;
+    -webkit-animation: color-change 4.5s infinite;
+    -moz-animation: color-change 4.5s infinite;
+    -o-animation: color-change 4.5s infinite;
+    -ms-animation: color-change 4.5s infinite;
+    animation: color-change 4.5s infinite;
+}
+
+@-webkit-keyframes color-change {
+    0% {
+        color: rgb(245, 4, 245);
+    }
+    50% {
+        color: red;
+    }
+    100% {
+        color: yellow;
+    }
+}
+
+@-moz-keyframes color-change {
+    0% {
+        color: rgb(245, 4, 245);
+    }
+    50% {
+        color: red;
+    }
+    100% {
+        color: yellow;
+    }
+}
+
+@-ms-keyframes color-change {
+    0% {
+        color: rgb(245, 4, 245);
+    }
+    50% {
+        color: red;
+    }
+    100% {
+        color: yellow;
+    }
+}
+
+@-o-keyframes color-change {
+    0% {
+        color: rgb(245, 4, 245);
+    }
+    50% {
+        color: red;
+    }
+    100% {
+        color: yellow;
+    }
+}
+
+@keyframes color-change {
+    0% {
+        color: rgb(245, 4, 245);
+    }
+    50% {
+        color: red;
+    }
+    100% {
+        color: yellow;
+    }
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+nav li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 25%;
+    text-align: center;
+}
+
+ul {
+    padding-left: 0px;
+}

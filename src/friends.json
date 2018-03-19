@@ -1,0 +1,81 @@
+[{
+        "id": 1,
+        "image": "https://media.giphy.com/media/3o85xm2acfUpAQbxwk/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://media.giphy.com/media/pqF6TMGR73DG0/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image": "https://media.giphy.com/media/tPHtz5DIuRyuY/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://media.giphy.com/media/3o85xt08p2Y0hanhwQ/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://media.giphy.com/media/uQHtUvva9Qljy/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://media.giphy.com/media/l0HlzUMeaJuBrvqmI/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://media.giphy.com/media/VKpmxJIJFodcQ/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://media.giphy.com/media/l41m6SxaTvCehO9xu/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 9,
+        "image": "https://media.giphy.com/media/nPD15mADocUEM/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://media.giphy.com/media/26ufmAbJMT0pCOk6c/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 11,
+        "image": "https://media.giphy.com/media/3o6nV1StXbWrpWhyMw/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 12,
+        "image": "https://media.giphy.com/media/3o6Zt2BBTEDMR0ZxLy/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 13,
+        "image": "https://media.giphy.com/media/1iUlZloL4DiH8HL2/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 14,
+        "image": "https://media.giphy.com/media/C0uinNcyxcBmE/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 15,
+        "image": "https://media.giphy.com/media/KSE17zQpd8Wty/giphy.gif",
+        "clicked": false
+    },
+    {
+        "id": 16,
+        "image": "https://media.giphy.com/media/3oEduN3KZyvqTIEmxa/giphy.gif",
+        "clicked": false
+    }
+]
